@@ -1,4 +1,4 @@
-// Creating the student object
+
 const student = {
     id: 249,
     name: "Ravi",
@@ -12,7 +12,7 @@ const student = {
         pincode: "600001"
     },
 
-    // Generic function to display selected properties
+    
     displayDetails(...props) {
         props.forEach(prop => {
             if (prop in this) console.log(`${prop.charAt(0).toUpperCase() + prop.slice(1)}: ${this[prop]}`);
