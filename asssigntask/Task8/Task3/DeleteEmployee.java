@@ -7,7 +7,7 @@ public class DeleteEmployee {
 
     static String url = "jdbc:mysql://localhost:3306/company";
     static String username = "root";
-    static String password = "gowtham";
+    static String password = "Ravi@9876";
     static Scanner scanner = new Scanner(System.in);
 
     public static void deleteEmployeeById(int empId) throws SQLException {

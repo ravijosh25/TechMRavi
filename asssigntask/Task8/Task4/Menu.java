@@ -8,7 +8,7 @@ import javax.management.Query;
 public class Menu {
     static String url = "jdbc:mysql://localhost:3306/company";
     static String username = "root";
-    static String password = "gowtham";
+    static String password = "Ravi@9876";
     static Scanner in = new Scanner(System.in);
 
     public static void menu() {

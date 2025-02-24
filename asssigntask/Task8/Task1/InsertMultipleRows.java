@@ -9,7 +9,7 @@ public class InsertMultipleRows {
 
     static String url = "jdbc:mysql://localhost:3306/company";
     static String username = "root";
-    static String password = "gowtham";
+    static String password = "Ravi@9876";
 
     public static void main(String[] args) throws SQLException {
         Object[][] employeeData = {
