@@ -1,8 +1,8 @@
 
 let student = {
-  name: "Gowtham",
+  name: "Ravi Teja C",
   age: 22,
-  dept: "Electronics and Communication",
+  dept: "ECE",
   display: function() {
     console.log("Name : "+this.name);
     console.log("Age : "+this.age);
@@ -20,9 +20,9 @@ student.display();
 
 
 student.address = {
-  street: "28C , Kottai Vasel East Street",
-  city: "Udayarpalayam",
-  pincode: "621804",
+  street: "5/702,perandapalli,Hosur",
+  city: "Hosur",
+  pincode: "35109",
   getCity : function () {
     console.log("City : "+this.city);
   },
