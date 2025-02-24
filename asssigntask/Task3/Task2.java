@@ -5,8 +5,8 @@ import java.io.FilenameFilter;
 
 public class Task2 {
     public static void main(String[] args) {
-        String path = "C:\\Users\\gowth\\OneDrive\\Desktop\\TechM-Training\\11__21-02-2025 Task";
-        String extension = ".pdf";
+        String path = "TechMRavi\\asssigntask\\Task3";
+        String extension = ".txt";
 
         File directory = new File(path);
 

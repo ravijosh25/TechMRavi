@@ -4,7 +4,7 @@ import java.io.File;
 
 public class Task1 {
     public static void main(String[] args) {
-        String Path = "C:\\Users\\gowth\\OneDrive\\Desktop\\TechM-Training\\11__21-02-2025 Task";
+        String Path = "TechMRavi\\asssigntask\\Task3";
 
         File directory = new File(Path);
 
