@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Task9 {
     public static void main(String[] args) {
-        String path = "C:\\Users\\gowth\\OneDrive\\Desktop\\TechM-Training\\11__21-02-2025 Task\\Task3\\SampleText.txt";
+        String path = "TechMRavi\\asssigntask\\Task3\\Task4.java";
 
         File file = new File(path);
 

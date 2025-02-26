@@ -4,8 +4,8 @@ import java.io.File;
 
 public class Task5 {
     public static void main(String[] args) {
-        String path1 = "C:\\Users\\gowth\\OneDrive\\Desktop\\TechM-Training\\11__21-02-2025 Task";
-        String path = "C:\\Users\\gowth\\OneDrive\\Desktop\\TechM-Training\\11__21-02-2025 Task\\Task3\\Task1.java";
+        String path1 = "TechMRavi\\asssigntask\\Task3";
+        String path = "TechMRavi\\asssigntask\\Task3\\Task4.java";
 
         File fileOrDirectory = new File(path);
         if(fileOrDirectory.exists()){

@@ -8,8 +8,8 @@ public class Task14 {
     public static void main(String[] args) {
         LinkedList<String> cities = new LinkedList<>();
         cities.add("Paris");
-        cities.add("London");
-        cities.add("Rome");
+        cities.add("Sri lanka");
+        cities.add("India");
         cities.add("Berlin");
 
         System.out.println("Cities in reverse order:");

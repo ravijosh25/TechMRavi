@@ -6,7 +6,7 @@ import java.io.FileReader;
 
 public class Task10 {
     public static void main(String[] args) {
-        String path = "C:\\Users\\gowth\\OneDrive\\Desktop\\TechM-Training\\11__21-02-2025 Task\\Task3\\SampleText.txt";
+        String path = "TechMRavi\\asssigntask\\Task3\\Task4.java";
 
 
         try(BufferedReader br = new BufferedReader(new FileReader(path))){
